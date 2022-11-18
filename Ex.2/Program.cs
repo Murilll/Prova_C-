@@ -9,11 +9,11 @@ public class Controller
     // {
         
 
-    public float[] valor = new float[41];
+    public float[] valor = new float[20];
 
     public float Control(float x)
     { 
-        if (this.count >= 41)
+        if (this.count >= 20)
             this.count = 0;
         this.valor[this.count] = x;
         this.count ++;
