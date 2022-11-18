@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\bin\Debug\net6.0-windows\Ex.2.exe
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\bin\Debug\net6.0-windows\Ex.2.deps.json
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\bin\Debug\net6.0-windows\Ex.2.runtimeconfig.json
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\bin\Debug\net6.0-windows\Ex.2.dll
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\bin\Debug\net6.0-windows\Ex.2.pdb
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.dll
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\refint\Ex.2.dll
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.pdb
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\Ex.2.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Prova_C-\Ex.2\obj\Debug\net6.0-windows\ref\Ex.2.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\disrct\\Desktop\\Prova_C-\\Ex.1\\Ex.1.csproj": {}
+    "C:\\Users\\disrct\\Desktop\\Prova_C-\\ex.1\\Ex.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\disrct\\Desktop\\Prova_C-\\Ex.1\\Ex.1.csproj": {
+    "C:\\Users\\disrct\\Desktop\\Prova_C-\\ex.1\\Ex.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Prova_C-\\Ex.1\\Ex.1.csproj",
+        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\Prova_C-\\ex.1\\Ex.1.csproj",
         "projectName": "Ex.1",
-        "projectPath": "C:\\Users\\disrct\\Desktop\\Prova_C-\\Ex.1\\Ex.1.csproj",
+        "projectPath": "C:\\Users\\disrct\\Desktop\\Prova_C-\\ex.1\\Ex.1.csproj",
         "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\disrct\\Desktop\\Prova_C-\\Ex.1\\obj\\",
+        "outputPath": "C:\\Users\\disrct\\Desktop\\Prova_C-\\ex.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
