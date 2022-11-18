@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\Prova_C-\bin\Debug\net6.0\Prova_C-.exe
+C:\Users\disrct\Desktop\Prova_C-\bin\Debug\net6.0\Prova_C-.deps.json
+C:\Users\disrct\Desktop\Prova_C-\bin\Debug\net6.0\Prova_C-.runtimeconfig.json
+C:\Users\disrct\Desktop\Prova_C-\bin\Debug\net6.0\Prova_C-.dll
+C:\Users\disrct\Desktop\Prova_C-\bin\Debug\net6.0\Prova_C-.pdb
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.dll
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\refint\Prova_C-.dll
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.pdb
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\Prova_C-.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Prova_C-\obj\Debug\net6.0\ref\Prova_C-.dll
